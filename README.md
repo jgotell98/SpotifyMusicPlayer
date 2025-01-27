@@ -111,4 +111,3 @@ cd SpotifyMusicPlayer
 - **[Spotify Web API](https://developer.spotify.com/documentation/web-api/)**: For enabling seamless music integration.
 - **[Django Documentation](https://docs.djangoproject.com/)**: For excellent backend support.
 - **[React.js Documentation](https://reactjs.org/docs/getting-started.html)**: For frontend framework support.
-```
