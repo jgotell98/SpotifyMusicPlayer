@@ -87,25 +87,6 @@ cd SpotifyMusicPlayer
 
 ---
 
-
-### Steps to Contribute:
-
-1. Fork this repository.
-2. Create a new branch for your feature or bug fix:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Description of changes"
-   ```
-4. Push your branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Submit a pull request to the main branch.
-
-
 ## Acknowledgements
 
 - **[Spotify Web API](https://developer.spotify.com/documentation/web-api/)**: For enabling seamless music integration.
